@@ -1,7 +1,7 @@
 
 ## GitHub Profile Trophy
 
-<img src="https://github-profile-trophy-ir6k16cq8-kentakoura.vercel.app/?username=kentakoura&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&theme=onestar" />
+<img src="https://github-profile-trophy-ir6k16cq8-kentakoura.vercel.app/?username=kentakoura&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=20&theme=onestar" />
 
 ## GitHub Readme Stats
 
