@@ -5,6 +5,4 @@
 
 ## GitHub Readme Stats
 
-<img src="https://github-readme-stats-9wfbh2521-kentakoura.vercel.app/api/top-langs/?username=kentakoura&layout=compact&hide=html,css&theme=dark" />
-
-<img src="https://github-readme-stats-9wfbh2521-kentakoura.vercel.app/api/?username=kentakoura&count_private=true&show_icons=true&hide=contribs&theme=dark&include_all_commits=true" />
+<img src="https://github-readme-stats-9wfbh2521-kentakoura.vercel.app/api/?username=kentakoura&count_private=true&show_icons=true&hide=stars&theme=dark&include_all_commits=true" />
